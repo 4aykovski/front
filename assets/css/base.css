@@ -1,3 +1,13 @@
-p {
+.main-text {
+    color: red;
     font-size: 50px;
 }
+
+#first {
+    color: blue;
+}
+
+div p b, div i {
+    color: green;
+}
+
