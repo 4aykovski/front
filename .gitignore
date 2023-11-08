@@ -10,7 +10,7 @@ local_settings.py
 
 # code editors
 .vs/
-.idea/
+../.idea/
 .vscode/
 
 # logs
