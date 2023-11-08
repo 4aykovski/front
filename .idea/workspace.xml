@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8988d4-ad13-4876-9dd8-6abca77c5cf4" name="Changes" comment="css 5">
-      <change afterPath="$PROJECT_DIR$/6/assets/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/index.html" afterDir="false" />
+    <list default="true" id="6f8988d4-ad13-4876-9dd8-6abca77c5cf4" name="Changes" comment="css 6">
+      <change afterPath="$PROJECT_DIR$/7/assets/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,7 @@
       <workItem from="1699238900198" duration="5000" />
       <workItem from="1699239581977" duration="3000" />
       <workItem from="1699454165923" duration="576000" />
-      <workItem from="1699454761003" duration="3820000" />
+      <workItem from="1699454761003" duration="4916000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699457921837</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="css 6">
+      <option name="closed" value="true" />
+      <created>1699459009538</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699459009538</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +168,8 @@
     <MESSAGE value="css 3" />
     <MESSAGE value="css 4" />
     <MESSAGE value="css 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="css 5" />
+    <MESSAGE value="css 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="css 6" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
